@@ -23,6 +23,7 @@ avg / total       0.99      0.99      0.91      0.99      0.95      0.91     193
   * Description of Model 2 Accuracy, Precision, and Recall scores.
 
 * Accuracy: 0.9936781215845847
+
                    pre       rec       spe        f1       geo       iba       sup
 
           0       1.00      0.99      0.99      1.00      0.99      0.99     18765
